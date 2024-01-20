@@ -32,8 +32,8 @@ Include screenshots or GIFs showcasing the different sections of your eCommerce 
 
 To run this eCommerce website locally, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/your-username/your-repository.git`
-2. Navigate to the project directory: `cd your-repository`
+1. Clone this repository: `git clone https://github.com/Vkeerthu/ecommerce.git`
+2. Navigate to the project directory: `cd ecommerce`
 3. Open the `index.html` file in your web browser.
 
 ## Usage 🖥️
