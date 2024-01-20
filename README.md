@@ -65,19 +65,4 @@ If you have any questions or feedback, feel free to reach out:
 
 - keerthy754@gmail.com
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(visit here)[https://vkeerthu.github.io/ecommerce/]
+[visit here](https://vkeerthu.github.io/ecommerce/)
