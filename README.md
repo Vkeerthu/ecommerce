@@ -63,8 +63,8 @@ This project is licensed under the [MIT License](LICENSE.md) - see the [LICENSE.
 
 If you have any questions or feedback, feel free to reach out:
 
-- [Your Email]
-- [Your LinkedIn]
+- keerthy754@gmail.com
+
 
 
 
