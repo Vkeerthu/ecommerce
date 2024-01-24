@@ -33,7 +33,7 @@ Include screenshots or GIFs showcasing the different sections of your eCommerce 
 To run this eCommerce website locally, follow these steps:
 
 1. Clone this repository: `git clone https://github.com/Vkeerthu/ecommerce.git`
-2. Navigate to the project directory: `cd ecommerce`
+2. Navigate to the project directory: `cd e-commerce`
 3. Open the `index.html` file in your web browser.
 
 ## Usage 🖥️
@@ -43,7 +43,7 @@ Describe how users can navigate the website, explore products, and make purchase
 ## Technologies Used 💻
 
 - HTML5, CSS3, JavaScript
-- [Any additional libraries or frameworks you've used]
+  
 
 ## Contributing 🤝
 
