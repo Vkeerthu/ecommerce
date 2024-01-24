@@ -50,9 +50,6 @@ Describe how users can navigate the website, explore products, and make purchase
 If you'd like to contribute to the development of this project, follow these steps:
 
 
-## License 📝
-
-This project is licensed under the [MIT License](LICENSE.md) - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Contact 📬
 
