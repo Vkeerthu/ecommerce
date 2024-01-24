@@ -49,11 +49,6 @@ Describe how users can navigate the website, explore products, and make purchase
 
 If you'd like to contribute to the development of this project, follow these steps:
 
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature/new-feature`
-3. Make your changes and commit: `git commit -m 'Add new feature'`
-4. Push to the branch: `git push origin feature/new-feature`
-5. Open a pull request.
 
 ## License 📝
 
