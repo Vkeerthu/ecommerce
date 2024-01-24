@@ -1,4 +1,4 @@
-# Your eCommerce Website 🛍️
+# eCommerce Website 🛍️
 
 Welcome to the repository for our eCommerce website! This platform provides a seamless shopping experience for users to explore and purchase a variety of products.
 
